@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="memory_scanner">
+    <file>icon/icons-search.png</file>
+  </qresource>
+</RCC>
